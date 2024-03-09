@@ -1,0 +1,12 @@
+name: GiftCode
+main: Noob\GiftCode
+version: 1.0.0
+api: 5.0.0
+author: NoobMCGaming
+permissions:
+  entercode.cmd:
+    default: true
+  createcode.cmd:
+    default: op
+  deletecode.cmd:
+    default: op
